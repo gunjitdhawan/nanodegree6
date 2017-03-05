@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#1CA8F4</color>
+
+    <color name="time_text">#ffffff</color>
+    <color name="date_text">#BBE5FB</color>
+    <color name="line">@color/date_text</color>
+    <color name="max_temp">@color/time_text</color>
+    <color name="min_temp">@color/date_text</color>
+</resources>
